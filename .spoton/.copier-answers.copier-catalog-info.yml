@@ -1,0 +1,12 @@
+_commit: v1.2.5
+_src_path: https://github.com/SpotOnInc/copier-catalog-info
+description: fork of demo apps for gitops evaluation
+domain: domain:default/infrastructure
+generate_techdocs: false
+lifecycle: experimental
+links: []
+owner: group:default/delivery
+repo_url: SpotOnInc/mike-demo-trioapps
+subdomain: domain:default/delivery-platform
+tags: []
+template_type: docs
