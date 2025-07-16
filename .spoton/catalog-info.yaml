@@ -12,5 +12,5 @@ metadata:
 
 spec:
   type: docs
-  owner: group:default/delivery
+  owner: group:default/delivery-platform
   lifecycle: experimental
