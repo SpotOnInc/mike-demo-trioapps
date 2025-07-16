@@ -5,7 +5,7 @@ domain: domain:default/infrastructure
 generate_techdocs: false
 lifecycle: experimental
 links: []
-owner: group:default/delivery
+owner: group:default/delivery-platform
 repo_url: SpotOnInc/mike-demo-trioapps
 subdomain: domain:default/delivery-platform
 tags: []
